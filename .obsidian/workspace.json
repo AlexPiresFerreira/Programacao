@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/9. Estruturas condicionais.md",
+                "file": "0. IDLE/0.2. Spyder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. Estruturas condicionais"
+              "title": "0.2. Spyder"
             }
           }
         ]
@@ -194,24 +194,38 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
-    "Python/8. Estruturas de repetição.md",
-    "Python/9. Estruturas condicionais.md",
-    "Python/7. Operadores.md",
+    "0. IDLE/attachments/LayoutsSpyder.png",
+    "0. IDLE/attachments/Pasted image 20260615113752.png",
+    "0. IDLE/attachments",
+    "0. IDLE/0.1. VSCode.md",
+    "0. IDLE/0.2. Spyder.md",
+    "GitHub/2. GitHub x Obsidian.md",
+    "GitHub/0. Geral.md",
+    "Markdown/1. Geral.md",
+    "GitHub/1. Comandos.md",
+    "Markdown",
+    "Python/100 - Ajuda.md",
+    "GitHub",
     "Python/Operadores.md",
-    "Python/4. Variáveis e constantes.md",
-    "Python/3. Funções úteis.md",
-    "Python/2. Modo interativo.md",
     "Python/1. Tipos de dados.md",
     "Python/02 - Tipos & Variável.md",
+    "Python/4. Variáveis e constantes.md",
+    "Python/12. Lista.md",
+    "Python/8. Estruturas de repetição.md",
+    "Python/11. Funções.md",
+    "Python/9. Estruturas condicionais.md",
+    "Python/16. Tratamento de erros com `try and except`.md",
+    "Python/7. Operadores.md",
+    "Python/1. Bibliotecas/1.1. datetime.md",
+    "Python/15. Dicionários.md",
+    "Python/1. Bibliotecas",
+    "Python/14. Conjuntos.md",
+    "Python/13. Tuplas.md",
+    "Python/10. Strings e fatiamento.md",
+    "Python/3. Funções úteis.md",
+    "Python/2. Modo interativo.md",
     "Python/5. Conversão de tipos.md",
-    "Python/6. unções de entrada e saída - input() e print().md",
-    "Python/0. Geral.md",
-    "Python/100 - Ajuda.md",
-    "Python/99 - Na onde estou.md",
-    "0. IDLE/0.1. VSCode.md",
-    "Python/01 - Python.md",
     "0. IDLE",
-    "Bem-vindo.md",
     "Python"
   ]
 }
