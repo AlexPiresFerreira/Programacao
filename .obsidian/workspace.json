@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "12262ecf0eb4ca15",
+    "id": "6cbcd155f512c983",
     "type": "split",
     "children": [
       {
-        "id": "c70d31ceb2f6cd2a",
+        "id": "4ebae2fd1c6d5821",
         "type": "tabs",
         "children": [
           {
-            "id": "b848a1215792fa32",
+            "id": "01165dde1a276f09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Disciplinas/3.2 Introdução à Programação com Python/3.2.1 Material de apoio.md",
+                "file": "Python/01 - Python.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.2.1 Material de apoio"
-            }
-          },
-          {
-            "id": "d7753d6aeab05288",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Disciplinas/3.3 Data Wrangling/3.3.2 Resumo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3.2 Resumo"
+              "title": "01 - Python"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c070fe64337ce62a",
+    "id": "46eaecf4e5ece8df",
     "type": "split",
     "children": [
       {
-        "id": "ee9d65687b1f5ccf",
+        "id": "339dc8d0773ea48d",
         "type": "tabs",
         "children": [
           {
-            "id": "45756af9d66e8685",
+            "id": "76a30045d481e18a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "47acd0f71968cc23",
+            "id": "0bb1ac7b384af5c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "bd30f27c4dd01de5",
+            "id": "9e9c82ce69b07928",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,22 +81,21 @@
     "width": 300
   },
   "right": {
-    "id": "68e35b4f75b290ae",
+    "id": "f8c9eae70cbf9887",
     "type": "split",
     "children": [
       {
-        "id": "b3fba905424fd3f8",
+        "id": "352f91a4c7ba51df",
         "type": "tabs",
         "children": [
           {
-            "id": "c2cea6f93ea26eb5",
+            "id": "6c8be8a28e4cb814",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pós/Aula 3.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -119,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Aula 3"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "8961b006dea65800",
+            "id": "62865c2342bee065",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pós/Aula 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Aula 3"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "fddcb2ed145a731a",
+            "id": "657c755a33fff23f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,26 +131,39 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "d2d9f08cff4af95b",
+            "id": "5207c2d2c2d086f3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "796de34e728def70",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pós/Aula 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aula 3"
+              "title": "Sumário"
             }
           },
           {
-            "id": "7cf2e805fc1af35c",
+            "id": "ff091a67a5e8c355",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -176,8 +172,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,7 +181,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -194,58 +188,18 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45756af9d66e8685",
+  "active": "01165dde1a276f09",
   "lastOpenFiles": [
-    "6. Programação/Python/Operadores.md",
-    "6. Programação/Python/99 - Na onde estou.md",
-    "6. Programação/Python/100 - Ajuda.md",
-    "6. Programação/Python/02 - Tipos & Variável.md",
-    "6. Programação/Python/01 - Python.md",
-    "6. Programação/Python",
-    "6. Programação",
-    "3. Disciplinas/3.3 Data Wrangling/3.3.1 Material de apoio.md",
-    "3. Disciplinas/3.3 Data Wrangling/3.3.2 Resumo.md",
-    "attachments/Data_Wrangling_Python.md",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/Geral.md",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Pasted image 20260610170334.png",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Pasted image 20260610163710.png",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Pasted image 20260610163456.png",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Pasted image 20260610162920.png",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Pasted image 20260610162831.png",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Pasted image 20260610162736.png",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/3.2.1 Material de apoio.md",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Introdução_Python_22,26_e_29.05.26_SL.pdf",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Não confirmado 482534.crdownload",
-    "attachments/Introdução_Programação_Python_MC.md",
-    "attachments/Introdução_Programação_Python.md",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Tutorial_de_Instalacao_Anaconda_MC.pdf",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Introducao_Programacao_Python_MC/(3) SCRIPT - Tradutor de Comentários.py",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Introducao_Programacao_Python_MC/(2) vendas_regiao.xlsx",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Introducao_Programacao_Python_MC/(2) receita_empresas.xlsx",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Introducao_Programacao_Python_MC/(2) notas_pisa.csv",
-    "3. Disciplinas/3.2 Introdução à Programação com Python/attachments/Introducao_Programacao_Python_MC/(2) comercio_global.xlsx",
-    "attachments/Tutorial_de_Instalacao_Anaconda_MC.pdf.md",
-    "3. Disciplinas/3.1 Fundamentos em Estatística/Resumo da Aula.md",
-    "3. Disciplinas/3.1 Fundamentos em Estatística/3.1.1 Material de apoio.md",
-    "2. Geral/1. Geral.md",
-    "2. Geral/2. E-mail.md",
-    "Introdução_Programação_Python (attachments/Introdução_Programação_Python).md",
-    "attachments/Introdução_Python_22,.md",
-    "4. Biblioteca/4.1 Livros baixados.md",
-    "2. Geral/attachments/Instrucoes_Caderno_do_Aluno.png",
-    "4. Biblioteca/4.0 Livros para comprar.md",
-    "3. Disciplinas/3.4 Coleta de Dados - Crawlers e Web Scraping/Sem título.md",
-    "3. Disciplinas/3.0 Abertura_do_Curso/3.0 Abertura_do_Curso.md",
-    "3.Disciplinas/3.0 Abertura_do_Curso/3.0 Abertura_do_Curso.md",
-    "3.Disciplinas/3.0.Abertura_do_Curso/3.0.Abertura_do_Curso.md",
-    "3.Disciplinas/3.0.Abertura_do_Curso/3.0 Abertura_do_Curso.md",
-    "attachments/Pasted image 20260509173132.png",
-    "MBA em Data Science, Inteligência Artificial e Analytics/attachments/Pasted image 20260509173132.png",
-    "LPIC-100/attachments/Pasted image 20260113142913.png",
-    "Sem título.canvas",
-    "Sem título 1.canvas"
+    "Bem-vindo.md",
+    "Python/Operadores.md",
+    "Python/99 - Na onde estou.md",
+    "Python/02 - Tipos & Variável.md",
+    "Python/100 - Ajuda.md",
+    "Python/01 - Python.md",
+    "Python"
   ]
 }
