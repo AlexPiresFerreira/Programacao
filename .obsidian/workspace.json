@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/01 - Python.md",
+                "file": "Python/9. Estruturas condicionais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Python"
+              "title": "9. Estruturas condicionais"
             }
           }
         ]
@@ -194,12 +194,24 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
-    "Bem-vindo.md",
+    "Python/8. Estruturas de repetição.md",
+    "Python/9. Estruturas condicionais.md",
+    "Python/7. Operadores.md",
     "Python/Operadores.md",
-    "Python/99 - Na onde estou.md",
+    "Python/4. Variáveis e constantes.md",
+    "Python/3. Funções úteis.md",
+    "Python/2. Modo interativo.md",
+    "Python/1. Tipos de dados.md",
     "Python/02 - Tipos & Variável.md",
+    "Python/5. Conversão de tipos.md",
+    "Python/6. unções de entrada e saída - input() e print().md",
+    "Python/0. Geral.md",
     "Python/100 - Ajuda.md",
+    "Python/99 - Na onde estou.md",
+    "0. IDLE/0.1. VSCode.md",
     "Python/01 - Python.md",
+    "0. IDLE",
+    "Bem-vindo.md",
     "Python"
   ]
 }
