@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown/1. Geral.md",
+                "file": "Python/17. Virtualização.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Geral"
+              "title": "17. Virtualização"
             }
           }
         ]
@@ -194,34 +194,36 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
+    "Python/1. Bibliotecas/1.16. json.md",
+    "Python/1. Bibliotecas/1.15. urllib.md",
+    "Python/1. Bibliotecas/1.14. ssl.md",
+    "Python/1. Bibliotecas/1.6. Socket.md",
+    "Python/1. Bibliotecas/1.13. netmiko.md",
+    "Python/1. Bibliotecas/1.12. paramiko.md",
+    "Python/1. Bibliotecas/1.11. telnetlib.md",
+    "Python/1. Bibliotecas/1.10. pexpect.md",
+    "Python/1. Bibliotecas/1.9. napalm.md",
+    "Git/4. SSH e autenticação.md",
+    "Git/3. Configuração.md",
+    "Git/2. Conceitos importantes.md",
+    "Git/1. Geral.md",
+    "GitHub/0. Geral.md",
+    "Git",
+    "Markdown/1. Geral.md",
     "GitHub/2. GitHub x Obsidian.md",
     "Expressões regulares/2. TABELA DE CARACTERES ASCII.md",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
     "Expressões regulares/1. Metacaracteres.md",
     "GitHub/1. Comandos.md",
-    "GitHub/0. Geral.md",
     "Python/2. Projetos/2.12. Acessa a página de repositórios de um usuário no GitHub.md",
     "Python/1. Bibliotecas/1.8. ctypes.md",
     "Expressões regulares/0. Geral.md",
     "Python/1. Bibliotecas/1.7. re.md",
     "Expressões regulares",
     "0. IDLE/0.1. VSCode.md",
-    "Python/1. Bibliotecas/1.6. Socket.md",
     "Python/1. Bibliotecas/1.5. PyPDF2.md",
     "Python/18. Tratamento de arquivo.md",
-    "Python/1. Bibliotecas/1.4. pandas.md",
-    "Python/1. Bibliotecas/1.0. Geral.md",
-    "Python/1. Bibliotecas/1.3. argparse.md",
-    "Python/16. Tratamento de erros com `try and except`.md",
-    "Python/11. Funções.md",
-    "Python/17. Virtualização.md",
-    "Python/1. Bibliotecas/1.1. Instalação de pacotes.md",
-    "Python/4. Variáveis e constantes.md",
-    "Python/2. Projetos/2.11. Ferramenta gráfica para abrir o navegador.md",
-    "Python/2. Projetos/2.10. Desenvolvendo um verificador de IP Externo.md",
-    "Python/2. Projetos/2.9. Desenvolvedor um ocutador de arquivo.md",
-    "Python/2. Projetos/2.8. Verificador de telefone.md",
     "Python/2. Projetos/attachments/Pasted image 20260615144451.png",
     "Python/2. Projetos/attachments/Pasted image 20260615144443.png",
     "Python/2. Projetos/attachments/Pasted image 20260615144435.png",
@@ -237,7 +239,6 @@
     "Markdown",
     "GitHub",
     "Python/1. Bibliotecas",
-    "0. IDLE",
-    "Python"
+    "0. IDLE"
   ]
 }
