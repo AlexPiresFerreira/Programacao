@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Logica/8. Estruturas de repetição.md",
+                "file": "1. Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Estruturas de repetição"
+              "title": "Inbox"
             }
           }
         ]
@@ -194,8 +194,10 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
-    "Logica/7. Estruturas condicionais.md",
     "Logica/8. Estruturas de repetição.md",
+    "1. Inbox/Inbox.md",
+    "1. Inbox",
+    "Logica/7. Estruturas condicionais.md",
     "Logica/6. Concatenação.md",
     "Logica/5. Operadores relacionais.md",
     "Logica/4. Operadores aritméticos.md",
@@ -220,7 +222,6 @@
     "Python/1. Bibliotecas/1.15. urllib.md",
     "Python/1. Bibliotecas/1.14. ssl.md",
     "Python/1. Bibliotecas/1.6. Socket.md",
-    "Python/1. Bibliotecas/1.13. netmiko.md",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
@@ -236,9 +237,8 @@
     "Python/2. Projetos/attachments/Pasted image 20260615144319.png",
     "Python/2. Projetos/attachments",
     "Python/2. Projetos",
-    "0. IDLE/attachments",
+    "1. IDLE/attachments",
     "Markdown",
-    "GitHub",
-    "Python/1. Bibliotecas"
+    "GitHub"
   ]
 }
