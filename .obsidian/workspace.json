@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/1. Bibliotecas/1.4. pandas.md",
+                "file": "Python/1. Bibliotecas/1.22. statsmodels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4. pandas"
+              "title": "1.22. statsmodels"
             }
           }
         ]
@@ -194,6 +194,12 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
+    "Python/1. Bibliotecas/1.21. scikit-learn.md",
+    "Python/1. Bibliotecas/1.22. statsmodels.md",
+    "Python/1. Bibliotecas/1.20. SciPy.md",
+    "Python/1. Bibliotecas/1.19. IPython e Jupyter.md",
+    "Python/1. Bibliotecas/1.18. matplotlid.md",
+    "Python/1. Bibliotecas/1.4. pandas.md",
     "Python/1. Bibliotecas/1.17. NunPy.md",
     "GitHub/2. GitHub x Obsidian.md",
     "Git/3. Comando.md",
@@ -216,12 +222,6 @@
     "Python/10. Strings e fatiamento.md",
     "Python/5. Conversão de tipos.md",
     "Python/2. Projetos/2.17. Programação Orientada a Objetos (OOP).md",
-    "Python/2. Projetos/2.16. Manipulação de JSON.md",
-    "Python/1. Bibliotecas/1.7. re.md",
-    "Python/2. Projetos/2.15. Requisições HTTP com requests.md",
-    "Python/0. Geral.md",
-    "Python/2. Projetos/2.14. SSL e TLS.md",
-    "Python/11. Funções.md",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
