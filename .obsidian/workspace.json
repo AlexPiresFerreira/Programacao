@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Inbox/Inbox.md",
+                "file": "Git/3. Comando.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "3. Comando"
             }
           }
         ]
@@ -194,8 +194,13 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
-    "Logica/8. Estruturas de repetição.md",
+    "GitHub/1. Comandos.md",
+    "Git/3. Comando.md",
+    "Git/1. Geral.md",
+    "Git/2. Conceitos importantes.md",
+    "GitHub/0. Geral.md",
     "1. Inbox/Inbox.md",
+    "Logica/8. Estruturas de repetição.md",
     "1. Inbox",
     "Logica/7. Estruturas condicionais.md",
     "Logica/6. Concatenação.md",
@@ -217,11 +222,6 @@
     "Python/11. Funções.md",
     "Python/17. Virtualização.md",
     "Python/2. Projetos/2.13. Telnet com telnetlib.md",
-    "Python/2. Projetos/2.2. Socket.md",
-    "Python/1. Bibliotecas/1.16. json.md",
-    "Python/1. Bibliotecas/1.15. urllib.md",
-    "Python/1. Bibliotecas/1.14. ssl.md",
-    "Python/1. Bibliotecas/1.6. Socket.md",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
