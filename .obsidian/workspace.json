@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/3. Comando.md",
+                "file": "GitHub/2. GitHub x Obsidian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Comando"
+              "title": "2. GitHub x Obsidian"
             }
           }
         ]
@@ -194,8 +194,8 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
-    "GitHub/1. Comandos.md",
     "Git/3. Comando.md",
+    "GitHub/1. Comandos.md",
     "Git/1. Geral.md",
     "Git/2. Conceitos importantes.md",
     "GitHub/0. Geral.md",
