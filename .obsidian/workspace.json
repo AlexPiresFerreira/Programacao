@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GitHub/2. GitHub x Obsidian.md",
+                "file": "Python/1. Bibliotecas/1.4. pandas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. GitHub x Obsidian"
+              "title": "1.4. pandas"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
+    "Python/1. Bibliotecas/1.17. NunPy.md",
+    "GitHub/2. GitHub x Obsidian.md",
     "Git/3. Comando.md",
     "GitHub/1. Comandos.md",
     "Git/1. Geral.md",
@@ -220,8 +222,6 @@
     "Python/0. Geral.md",
     "Python/2. Projetos/2.14. SSL e TLS.md",
     "Python/11. Funções.md",
-    "Python/17. Virtualização.md",
-    "Python/2. Projetos/2.13. Telnet com telnetlib.md",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
