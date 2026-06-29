@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/1. Bibliotecas/1.0. Geral.md",
+                "file": "Python/0. Geral.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.0. Geral"
+              "title": "0. Geral"
             }
           }
         ]
@@ -194,6 +194,9 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
+    "1. Inbox/Inbox.md",
+    "Git/3. Comando.md",
+    "Python/1. Bibliotecas/1.0. Geral.md",
     "Python/1. Bibliotecas/1.22. statsmodels.md",
     "Python/1. Bibliotecas/1.21. scikit-learn.md",
     "Python/1. Bibliotecas/1.20. SciPy.md",
@@ -202,12 +205,10 @@
     "Python/1. Bibliotecas/1.4. pandas.md",
     "Python/1. Bibliotecas/1.17. NunPy.md",
     "GitHub/2. GitHub x Obsidian.md",
-    "Git/3. Comando.md",
     "GitHub/1. Comandos.md",
     "Git/1. Geral.md",
     "Git/2. Conceitos importantes.md",
     "GitHub/0. Geral.md",
-    "1. Inbox/Inbox.md",
     "Logica/8. Estruturas de repetição.md",
     "1. Inbox",
     "Logica/7. Estruturas condicionais.md",
@@ -221,7 +222,6 @@
     "Logica",
     "Python/10. Strings e fatiamento.md",
     "Python/5. Conversão de tipos.md",
-    "Python/2. Projetos/2.17. Programação Orientada a Objetos (OOP).md",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
