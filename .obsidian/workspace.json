@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/0. Geral.md",
+                "file": "1. Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Geral"
+              "title": "Inbox"
             }
           }
         ]
@@ -194,6 +194,7 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
+    "Python/0. Geral.md",
     "1. Inbox/Inbox.md",
     "Git/3. Comando.md",
     "Python/1. Bibliotecas/1.0. Geral.md",
@@ -221,7 +222,6 @@
     "Python/2. Projetos/attachments/2.18. time.md",
     "Logica",
     "Python/10. Strings e fatiamento.md",
-    "Python/5. Conversão de tipos.md",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
     "Expressões regulares/attachments",
