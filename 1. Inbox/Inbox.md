@@ -6,4 +6,6 @@ sorted
  zip
  reversed
  dictionary comprehensions
+ import re
+ lambda
  
