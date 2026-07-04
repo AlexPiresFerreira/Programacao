@@ -12,4 +12,3 @@ open(caminho, encoding="utf-8")
 	close()
 https://github.com/wesm/pydata-book
 
-teste
