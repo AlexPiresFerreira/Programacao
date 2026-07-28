@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/12. Lista.md",
+                "file": "1. Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Lista"
+              "title": "Inbox"
             }
           }
         ]
@@ -194,6 +194,8 @@
   },
   "active": "01165dde1a276f09",
   "lastOpenFiles": [
+    "Python/0. Geral.md",
+    "Python/12. Lista.md",
     "Python/1. Bibliotecas/1.17. NunPy.md",
     "Python/2. Projetos/2.18. Gráfico.md",
     "Python/2. Projetos/Sem título.md",
@@ -201,7 +203,6 @@
     "Python/0. Instalação.md",
     "Python/Sem título.md",
     "1. Inbox/Inbox.md",
-    "Python/0. Geral.md",
     "Git/3. Comando.md",
     "Python/1. Bibliotecas/1.0. Geral.md",
     "Python/1. Bibliotecas/1.22. statsmodels.md",
@@ -220,7 +221,6 @@
     "Logica/7. Estruturas condicionais.md",
     "Logica/6. Concatenação.md",
     "Logica/5. Operadores relacionais.md",
-    "Logica/4. Operadores aritméticos.md",
     "Logica",
     "Git",
     "Expressões regulares/attachments/Pasted image 20260615163922.png",
