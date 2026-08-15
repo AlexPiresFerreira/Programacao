@@ -7,3 +7,6 @@ PRKP --> Instance(cada banco uma instance)
 - Processo 
 	- ora_nome_processo_nome_instance
 
+
+root viracopos
+
