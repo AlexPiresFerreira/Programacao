@@ -10,3 +10,4 @@ PRKP --> Instance(cada banco uma instance)
 
 root viracopos
 
+![[Pasted image 20260815112811.png]]
