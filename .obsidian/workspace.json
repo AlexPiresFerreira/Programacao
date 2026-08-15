@@ -25,12 +25,14 @@
             "id": "51126ef9e34f27bc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "Oracle/Aula 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.13.7"
+              "icon": "lucide-file",
+              "title": "Aula 1"
             }
           }
         ],
@@ -93,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f8c9eae70cbf9887",
@@ -209,6 +212,8 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
+    "Oracle/Aula 1.md",
+    "Oracle",
     "Python/12. Lista.md",
     "Python/0. Geral.md",
     "Python/attachments/Pasted image 20260813204341.png",
@@ -252,7 +257,6 @@
     "Python/2. Projetos/attachments/Pasted image 20260615144328.png",
     "Python/2. Projetos/attachments",
     "Python/2. Projetos",
-    "1. IDLE/attachments",
-    "Markdown"
+    "1. IDLE/attachments"
   ]
 }
