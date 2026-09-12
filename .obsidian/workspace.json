@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oracle/Aula 1.md",
+                "file": "Python/19 Match.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 1"
+              "title": "19 Match"
             }
           }
         ],
@@ -70,8 +70,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "match",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -211,20 +211,24 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
+    "Sem título.canvas",
+    "Python/8. Estruturas de repetição.md",
+    "Python/9. Estruturas condicionais.md",
+    "Python/0. Geral.md",
+    "Python/100 - Ajuda.md",
+    "Python/1. Bibliotecas/1.0. Geral.md",
+    "1. Inbox/Inbox.md",
+    "Oracle/Aula 1.md",
     "Oracle/attachments/Pasted image 20260815112811.png",
     "Oracle/attachments/Pasted image 20260815083341.png",
     "Oracle/attachments",
-    "Oracle/Aula 1.md",
     "Oracle",
     "Python/12. Lista.md",
-    "Python/0. Geral.md",
     "Python/attachments/Pasted image 20260813204341.png",
     "Python/attachments",
     "Python/11. Funções.md",
     "Python/19 Match.md",
     "Python/14. Conjuntos.md",
-    "Python/8. Estruturas de repetição.md",
-    "Python/9. Estruturas condicionais.md",
     "Python/1. Tipos de dados.md",
     "Python/6. unções de entrada e saída - input() e print().md",
     "Python/5. Conversão de tipos.md",
@@ -239,9 +243,6 @@
     "Git/3. Comando.md",
     "Git/2. Conceitos importantes.md",
     "Git/1. Geral.md",
-    "1. Inbox/Inbox.md",
-    "Python/1. Bibliotecas/1.17. NunPy.md",
-    "Python/2. Projetos/2.18. Gráfico.md",
     "1. Inbox",
     "Logica",
     "Git",
@@ -254,7 +255,6 @@
     "Python/2. Projetos/attachments/Pasted image 20260615144423.png",
     "Python/2. Projetos/attachments/Pasted image 20260615144416.png",
     "Python/2. Projetos/attachments/Pasted image 20260615144410.png",
-    "Python/2. Projetos/attachments/Pasted image 20260615144359.png",
     "Python/2. Projetos/attachments",
     "Python/2. Projetos"
   ]
