@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/10. Strings e fatiamento.md",
+                "file": "Python/12. Lista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Strings e fatiamento"
+              "title": "12. Lista"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
+    "Python/10. Strings e fatiamento.md",
     "Python/8. Estruturas de repetição.md",
     "Python/9. Estruturas condicionais.md",
     "Python/1. Tipos de dados.md",
