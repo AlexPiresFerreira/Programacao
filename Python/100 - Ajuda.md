@@ -1,5 +1,5 @@
 
 - dir()
-- dir(objeto)
+	- dir(objeto)
 - help()
-- help(objeto)
+	- help(objeto)

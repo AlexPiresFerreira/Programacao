@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/0. Geral.md",
+                "file": "Python/7. Operadores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Geral"
+              "title": "7. Operadores"
             }
           }
         ],
@@ -211,12 +211,16 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
+    "Python/6. unções de entrada e saída - input() e print().md",
+    "Python/5. Conversão de tipos.md",
+    "Python/4. Variáveis e constantes.md",
+    "Python/1. Tipos de dados.md",
+    "Python/100 - Ajuda.md",
+    "Python/0. Geral.md",
     "Python/19 Match.md",
     "Sem título.canvas",
     "Python/8. Estruturas de repetição.md",
     "Python/9. Estruturas condicionais.md",
-    "Python/0. Geral.md",
-    "Python/100 - Ajuda.md",
     "Python/1. Bibliotecas/1.0. Geral.md",
     "1. Inbox/Inbox.md",
     "Oracle/Aula 1.md",
@@ -229,10 +233,6 @@
     "Python/attachments",
     "Python/11. Funções.md",
     "Python/14. Conjuntos.md",
-    "Python/1. Tipos de dados.md",
-    "Python/6. unções de entrada e saída - input() e print().md",
-    "Python/5. Conversão de tipos.md",
-    "Python/4. Variáveis e constantes.md",
     "Python/3. Funções úteis.md",
     "Python/2. Modo interativo.md",
     "Python/0. Pacotes e instalação.md",
