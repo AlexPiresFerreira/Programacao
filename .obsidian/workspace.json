@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/20. Introdução à Programação Orientada a Objetos (POO).md",
+                "file": "Python/21. Herança.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Introdução à Programação Orientada a Objetos (POO)"
+              "title": "21. Herança"
             }
           }
         ],
@@ -211,8 +211,10 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
-    "Python/11. Funções.md",
     "Python/20. Introdução à Programação Orientada a Objetos (POO).md",
+    "Python/100 - Ajuda.md",
+    "Python/21. Herança.md",
+    "Python/11. Funções.md",
     "Python/15. Dicionários.md",
     "Python/14. Conjuntos.md",
     "Python/13. Tuplas.md",
@@ -226,7 +228,6 @@
     "Python/6. unções de entrada e saída - input() e print().md",
     "Python/5. Conversão de tipos.md",
     "Python/4. Variáveis e constantes.md",
-    "Python/100 - Ajuda.md",
     "Python/19 Match.md",
     "Sem título.canvas",
     "Python/1. Bibliotecas/1.0. Geral.md",
@@ -243,7 +244,6 @@
     "Python/0. Pacotes e instalação.md",
     "Markdown/1. Geral.md",
     "GitHub/Git LFS — Instalação e Configuração no GitHub.md",
-    "GitHub/2. GitHub x Obsidian.md",
     "1. Inbox",
     "Logica",
     "Git",
