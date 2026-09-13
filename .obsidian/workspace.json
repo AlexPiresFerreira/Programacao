@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/20. Introdução à Programação Orientada a Objetos (POO).md",
+                "file": "Python/21. Decoradores, Iteradores e Geradores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Introdução à Programação Orientada a Objetos (POO)"
+              "title": "21. Decoradores, Iteradores e Geradores"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
-    "Python/21. Herança.md",
     "Python/20. Introdução à Programação Orientada a Objetos (POO).md",
+    "Python/21. Decoradores, Iteradores e Geradores.md",
     "Python/100 - Ajuda.md",
     "Python/11. Funções.md",
     "Python/15. Dicionários.md",
