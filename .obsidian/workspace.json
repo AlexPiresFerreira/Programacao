@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/23. Arquivo.md",
+                "file": "1. Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23. Arquivo"
+              "title": "Inbox"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "51126ef9e34f27bc",
   "lastOpenFiles": [
-    "Python/22. Date.md",
     "Python/23. Arquivo.md",
+    "Python/22. Date.md",
     "Python/21. Decoradores, Iteradores e Geradores.md",
     "Python/20. Introdução à Programação Orientada a Objetos (POO).md",
     "Python/100 - Ajuda.md",

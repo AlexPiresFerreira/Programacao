@@ -29,4 +29,8 @@ https://github.com/wesm/pydata-book
 		- Text Mining with R
 		- https://www.tidytextmining.com/tidytext
 	- https://github.com/MackMendes/Text-Mining-ConceitosPraticosUsandoR-EmergingCode
-	- 
+
+---
+
+- Termos 
+	- wrangling e munging
