@@ -34,4 +34,5 @@ https://github.com/wesm/pydata-book
 
 - Termos 
 	- wrangling e munging
-	- array
+		- array
+		- TensorFlow ou PyTorch
