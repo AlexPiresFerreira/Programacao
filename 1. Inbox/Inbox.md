@@ -36,3 +36,5 @@ https://github.com/wesm/pydata-book
 	- wrangling e munging
 		- array
 		- TensorFlow ou PyTorch
+	- str --> format
+		- :.2f
