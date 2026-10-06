@@ -37,4 +37,4 @@ https://github.com/wesm/pydata-book
 		- array
 		- TensorFlow ou PyTorch
 	- str --> format
-		- :.2f
+		- :.2f 
