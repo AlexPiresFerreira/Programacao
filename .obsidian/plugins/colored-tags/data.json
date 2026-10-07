@@ -421,7 +421,10 @@
     "uptime": 409,
     "estatistica": 410,
     "MBA": 411,
-    "USP": 412
+    "USP": 412,
+    "Contantar": 413,
+    "Tirar": 414,
+    "Copiar": 415
   },
   "_version": 3
 }
