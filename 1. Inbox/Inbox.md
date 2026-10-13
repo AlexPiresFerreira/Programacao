@@ -38,3 +38,20 @@ https://github.com/wesm/pydata-book
 		- TensorFlow ou PyTorch
 	- str --> format
 		- :.2f 
+
+---
+
+#### # Python for Data Analysis
+- https://wesmckinney.com/book/
+- https://github.com/wesm/pydata-book
+- https://pydata.org/
+- https://github.com/statsmodels
+- numpy-discussion
+- python cookbook
+- python fluente
+- python eficaz
+
+### Curso de Python
+- https://github.com/leandrohirt-dev?tab=repositories
+- https://academify.com.br/mapa-mental-curso-de-python/
+- 
