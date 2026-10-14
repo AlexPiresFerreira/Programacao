@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exercicio.md",
+                "file": "Python/18. Tratamento de arquivo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercicio"
+              "title": "18. Tratamento de arquivo"
             }
           }
         ],
@@ -239,10 +239,10 @@
   },
   "active": "6c3ffdcc11b4f1f8",
   "lastOpenFiles": [
+    "exercicio.md",
     "1. Inbox/Inbox.md",
     "Python/11. Funções.md",
     "Python/0. Geral.md",
-    "exercicio.md",
     "Sem título.canvas",
     "Python/10. Strings e fatiamento.md",
     "Python/1. Tipos de dados.md",
