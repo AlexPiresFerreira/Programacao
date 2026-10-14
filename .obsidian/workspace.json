@@ -53,12 +53,14 @@
             "id": "6c3ffdcc11b4f1f8",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "exercicio.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notas de Lançamento 1.14.4"
+              "icon": "lucide-file",
+              "title": "exercicio"
             }
           }
         ],
